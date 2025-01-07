@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Merlin-00
 - I’m interested in web
 - i am passionate about new technologies
-- web developer//html|css|tailwind|typeScript/javaScript/Angular/firebase
+- web developer//html|css|tailwind|typeScript/javaScript/Angular
 - How to reach me:
 *GitHub https://github.com/Merlin-00/Merlin-00.git
 
